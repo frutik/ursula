@@ -28,7 +28,7 @@ Add your hosts to the inventory:
 
 # Getting Started
 
-Ursula comes bundled with Vagrant hooks to get started.  see [docs/vagrant.md](docs/vagrant.md) for using it.
+Ursula comes bundled with Vagrant hooks to get started.  see [docs/vagrant.md](doc/vagrant.md) for using it.
 
 # Basic Usage
 
